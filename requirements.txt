@@ -1,0 +1,7 @@
+streamlit
+Pillow
+numpy
+pandas
+torch  # Required for YOLO and PyTorch model compatibility
+ultralytics
+opencv-python-headless>=4.5.5
