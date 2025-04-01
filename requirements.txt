@@ -2,11 +2,9 @@ streamlit
 Pillow
 numpy
 pandas
-torch  # Required for YOLO and PyTorch model compatibility
+# torch  # Required for YOLO and PyTorch model compatibility
 ultralytics
 opencv-python-headless>=4.5.5
-torchdivision 
-torchaudio
 torch --index-url https://download.pytorch.org/whl/cu118   torchaudio --index-url 
 torchdivision --index-url https://download.pytorch.org/whl/cu118
 torchaudio --index-url https://download.pytorch.org/whl/cu118
